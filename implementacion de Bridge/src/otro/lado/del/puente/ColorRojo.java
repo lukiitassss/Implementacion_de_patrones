@@ -1,0 +1,12 @@
+package otro.lado.del.puente;
+
+public class ColorRojo implements IColores {
+
+	@Override
+	public void pintar() {
+		System.out.println("pintando de color rojo");
+		
+	}
+
+
+}

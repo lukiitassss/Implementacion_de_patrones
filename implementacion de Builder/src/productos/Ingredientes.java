@@ -1,0 +1,5 @@
+package productos;
+
+public enum Ingredientes {CARNE,POLLO,HUEVO,ACEITUNA,CHOCLO,QUESO,JAMON,PASAS_DE_UVA,PAPA,CEBOLLA_DE_VERDEO,CEBOLLA
+
+}
